@@ -11,7 +11,12 @@ namespace Visual_Studio_and_Git
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            Console.WriteLine("Test Ongoing");
             Console.ReadLine();
+
+            
+            
+          
         }
     }
 }
